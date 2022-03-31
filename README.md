@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smusab9152
 - 👀 I’m interested in ... Data Science, Machine Learning and related concepts
-- 🌱 I’m currently learning ... Data Science , Python and R Prgramming Languages
+- 🌱 I’m currently learning ... Data Science , Python and R Programming Languages
 - 📫 How to reach me ...smusab9152@gmail.com
 
 <!---
