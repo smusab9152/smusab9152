@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **smusab9152@gmail.com**
 
-- 📄 Know about my experiences [https://www.musabshaikh.com/_files/ugd/384915_672463f93df04894a7541c93a9a4904b.pdf](https://www.musabshaikh.com/_files/ugd/384915_672463f93df04894a7541c93a9a4904b.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/musabshaikh9029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="musabshaikh9029" height="30" width="40" /></a>
