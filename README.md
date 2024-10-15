@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Musab Parvez Shaikh</h1>
 <h3 align="center">I am Musab Parvez Shaikh, an aspiring data scientist, open to explore new opprtunities in the field of technology.Looking for latest technology and more than happy to have a chat with expirienced people of the field.</h3>
 
-- 👨‍💻 All of my projects are available at [musabshaikh.com](musabshaikh.com)
-
-- 📝 I regularly write articles on [https://medium.com/@sk-musab9152](https://medium.com/@sk-musab9152)
-
 - 💬 Ask me about **Python, R, SQL, MS Excel and Machine Learning ALgorithm**
 
 - 📫 How to reach me **smusab9152@gmail.com**
