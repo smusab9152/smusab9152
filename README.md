@@ -26,8 +26,8 @@ Explore some of my repositories to see my work in action:
 
 ## Get in Touch
 
--  Email: [smusab9152@gmail.com](mailto:smusab9152@gmail.com)
--  LinkedIn: [in/musab-shaikh1](https://www.linkedin.com/in/musab-shaikh1)
+-  Email: [Link](mailto:smusab9152@gmail.com)
+-  LinkedIn: [Link](https://www.linkedin.com/in/musab-shaikh1)
 
 Feel free to reach out for collaborations, discussions, or just a friendly chat about technology!
 
