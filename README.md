@@ -1,6 +1,6 @@
 # Hi, I'm Musab Parvez Shaikh
 
-Welcome to my GitHub profile! I'm an aspiring Data Scientist and AI enthusiast passionate about leveraging data to solve real-world problems. I enjoy exploring the latest technologies and am always eager to learn and collaborate with experienced professionals in the field.
+I work with data using Python, SQL, and machine learning to uncover insights and build useful projects. Here on GitHub, I share my analyses, experiments, and ideas with anyone interested in data and technology
 
 ---
 
