@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm an aspiring Data Scientist and AI enthusiast p
 
 ---
 
-## 🧠 Technologies & Tools
+## Technologies & Tools
 
 - **Programming Languages:** Python, R, SQL
 - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm an aspiring Data Scientist and AI enthusiast p
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 Explore some of my repositories to see my work in action:
 
@@ -24,10 +24,10 @@ Explore some of my repositories to see my work in action:
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
-- 📧 Email: [smusab9152@gmail.com](mailto:smusab9152@gmail.com)
-- 🔗 LinkedIn: [in/musab-shaikh1](https://www.linkedin.com/in/musab-shaikh1)
+-  Email: [smusab9152@gmail.com](mailto:smusab9152@gmail.com)
+-  LinkedIn: [in/musab-shaikh1](https://www.linkedin.com/in/musab-shaikh1)
 
 Feel free to reach out for collaborations, discussions, or just a friendly chat about technology!
 
