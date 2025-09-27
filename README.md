@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Musab Parvez Shaikh
+# Hi, I'm Musab Parvez Shaikh
 
 Welcome to my GitHub profile! I'm an aspiring Data Scientist and AI enthusiast passionate about leveraging data to solve real-world problems. I enjoy exploring the latest technologies and am always eager to learn and collaborate with experienced professionals in the field.
 
@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm an aspiring Data Scientist and AI enthusiast p
 
 Explore some of my repositories to see my work in action:
 
-- [Project 1](https://github.com/smusab9152/project1) - A brief description of what this project does.
-- [Project 2](https://github.com/smusab9152/project2) - A brief description of what this project does.
+- [LA Crime Prediction Project](https://github.com/smusab9152/project1) - This project looks at crime data from Los Angeles. It cleans and organizes the data, then explores patterns in different types of crimes and locations. Visualizations help show trends and insights clearly. The project also tries to predict future crime patterns. It’s a practical example of using data to understand city crime.
+- [Pokemon Data Analysis](https://github.com/smusab9152/Pokemon_Data_Analysis) - This project looks at a dataset of different Pokémon and their attributes. It cleans the data and uses charts to explore patterns in stats like attack, defense, and speed. It also looks at trends across Pokémon types and generations. The project highlights differences between regular and legendary Pokémon. Overall, it helps understand the Pokémon data in an easy-to-see way.
 - [Project 3](https://github.com/smusab9152/project3) - A brief description of what this project does.
 
 ---
