@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Musab Parvez Shaikh</h1>
-<h3 align="center">I am Musab Parvez Shaikh, an aspiring data scientist, open to explore new opprtunities in the field of technology.Looking for latest technology and more than happy to have a chat with expirienced people of the field.</h3>
+<h1>Hi 👋, I'm Musab Parvez Shaikh</h1>
+<h3>I am Musab Parvez Shaikh, an aspiring data scientist, open to explore new opprtunities in the field of technology.Looking for latest technology and more than happy to have a chat with expirienced people of the field.</h3>
 
 - 💬 Ask me about **Python, R, SQL, MS Excel and Machine Learning Algorithms**
 
