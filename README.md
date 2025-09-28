@@ -1,4 +1,4 @@
-# Hi, I'm Musab Parvez Shaikh
+# Hi, I'm Musab Parvez Shaikh!
 
 I work with data using Python, SQL, and machine learning to uncover insights and build useful projects. Here on GitHub, I share my analyses, experiments, and ideas with anyone interested in data and technology
 
