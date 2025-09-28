@@ -23,8 +23,6 @@ Explore some of my repositories to see my work in action:
 - [Reddit Rules Classification](https://github.com/smusab9152/Reddit_rules_classification) - This project uses machine learning to determine whether Reddit comments follow subreddit rules. It processes the text of comments to predict if they comply with community guidelines. The goal is to help automate moderation by identifying rule-breaking content. This approach can assist in maintaining healthy online communities.
 - [Beats Per Minute Prediction](https://github.com/smusab9152/bpm_pred_songs) - This project predicts a song's Beats Per Minute (BPM) using its various audio features. It cleans the data, applies transformations to normalize skewed feature distributions, and trains several regression models. The goal is to build an accurate model that can determine the tempo of a song from its characteristics, providing a practical example of a regression task.
 
----
-
 ## Get in Touch
 
 -  Email: [Link](mailto:smusab9152@gmail.com)
