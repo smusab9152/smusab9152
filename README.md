@@ -9,7 +9,7 @@ I work with data using Python, SQL, and machine learning to uncover insights and
 - **Programming Languages:** Python, R, SQL
 - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras
-- **Data Management:** MS Excel, SQL Databases
+- **Data Management:** MS Excel, SQL Databases, MongoDB
 - **Tools & Platforms:** Jupyter, Git, GitHub, Kaggle
 
 ---
